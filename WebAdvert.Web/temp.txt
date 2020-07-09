@@ -1,0 +1,7 @@
+﻿region: us-east-2
+Pool Id us-east-2_X60NppscH
+Pool ARN arn:aws:cognito-idp:us-east-2:625803691934:userpool/us-east-2_X60NppscH
+App client id
+5uqr5hgrosv6jo36t7cnuu5g33
+App client secret
+18r2db295b10aoh8e41kbpa7dr5cum7ahab0kmq9q1uk7o9fm3i5
